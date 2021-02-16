@@ -1,0 +1,48 @@
+{
+  "portrait":[
+ 
+  
+    ],
+   "portrait1":[
+   
+    ],
+   "portrait2":[
+   
+    ],
+   
+   "square":[
+   
+   
+    ],
+   "square1":[
+
+    ],
+   
+  "square2":[
+  
+	],
+   
+  "landscape":[
+  
+  ],
+     
+  "landscape1":[
+   
+    ],
+  "landscape2":[
+    
+    ],
+  "landscape3":[
+    
+    ],
+  "landscape4":[
+    
+     ],
+     
+  "landscape5":[
+    
+    ],
+  "landscape6":[
+     
+     ]
+  }
