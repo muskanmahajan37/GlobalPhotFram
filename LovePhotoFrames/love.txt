@@ -2,7 +2,6 @@
   "portrait":[
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-4.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/portrait/frame-6.webp",
@@ -68,11 +67,15 @@
     ],
    
   "landscape":[
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(4).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame15.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame16.png"
+
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(5).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(6).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(7).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(8).webp",
@@ -101,13 +104,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(8).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(12).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(16).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(18).webp",
-   
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame1.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame15.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame16.png"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(18).webp"
     
   ]
 }
