@@ -241,5 +241,5 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame19.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame20.png"
     
-  
+  ]
 }
