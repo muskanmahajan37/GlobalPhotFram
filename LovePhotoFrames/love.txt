@@ -96,9 +96,8 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-15.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-16.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-18.webp"
-    ],
-   "square1":[
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-18.webp",
+   
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-3.webp",
