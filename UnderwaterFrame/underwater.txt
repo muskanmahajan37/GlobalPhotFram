@@ -21,10 +21,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img19.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img20.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img22.webp"
-    ],
- "portrait1":[
- 
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img22.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait1/frm_img23.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait1/frm_img24.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait1/frm_img25.webp",
@@ -73,9 +70,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-21.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-22.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-23.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-24.webp"
-    ],
- "square1":[
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-24.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square1/frame-25.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square1/frame-26.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square1/frame-27.webp",
